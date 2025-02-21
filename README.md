@@ -23,14 +23,16 @@ Django, Bootstrap (https://github.com/NadyaMamonova/WeatherApp/tree/main/Weather
 
 **Сертификаты Нетологии**
 
-Python 
+- Python 
 
-Django 
+- Django https://github.com/NadyaMamonova/Portfolio/blob/master/Django.pdf
 
-Python в web-разработке 
+- Python в web-разработке https://github.com/NadyaMamonova/Portfolio/blob/master/Python%20web.pdf
 
-SQL и получение данных 
+- SQL и получение данных  https://github.com/NadyaMamonova/Portfolio/blob/master/Database.pdf
 
-Python 
+- Python https://github.com/NadyaMamonova/Portfolio/blob/master/Python.pdf
 
-GIT 
+- GIT https://github.com/NadyaMamonova/Portfolio/blob/master/Git.pdf
+
+- ООП и API https://github.com/NadyaMamonova/Portfolio/blob/master/OO%D0%9F%20%D0%B8%20API.pdf
