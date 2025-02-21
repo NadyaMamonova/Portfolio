@@ -36,3 +36,7 @@ Django, Bootstrap (https://github.com/NadyaMamonova/WeatherApp/tree/main/Weather
 - GIT https://github.com/NadyaMamonova/Portfolio/blob/master/Git.pdf
 
 - ООП и API https://github.com/NadyaMamonova/Portfolio/blob/master/OO%D0%9F%20%D0%B8%20API.pdf
+
+
+**Сертификаты на Stepik**
+Stepik: https://stepik.org/users/667736784/profile?auth=login
